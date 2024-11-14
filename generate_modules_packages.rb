@@ -3,8 +3,8 @@ class GenerateModulePackages < Formula
 
   desc "Project to get data from excel sheet and generate modules packages"
   homepage "https://github.com/sosafe-einar-olafsson/generate_modules_packages"
-  url "https://github.com/sosafe-einar-olafsson/generate_modules_packages/archive/refs/tags/v0.1.0.tar.gz"
-  sha256 "a0eab32d56e8caead3d6bf7dc2ade82d98b8933dee82dc95daa7aabc95c815f3"
+  url "https://github.com/sosafe-einar-olafsson/generate_modules_packages/archive/refs/tags/v0.2.0.tar.gz"
+  sha256 "4634344c48c1f6add80661db603e42d3b8ba85004c3c827e99a9eed306572197"
 
   depends_on "python@3.9"
 
