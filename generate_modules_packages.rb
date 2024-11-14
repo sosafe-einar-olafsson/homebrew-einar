@@ -1,4 +1,4 @@
-class GenerateModulePackages < Formula
+class GenerateModulesPackages < Formula
   include Language::Python::Virtualenv
 
   desc "Project to get data from excel sheet and generate modules packages"
