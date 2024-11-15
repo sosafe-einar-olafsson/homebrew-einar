@@ -1,9 +1,9 @@
 class ExtractJiraTickets < Formula
   desc "Extract Jira tickets from git history between two tags"
   homepage "https://github.com/sosafe-einar-olafsson/extract-jira-tickets"
-  url "https://github.com/sosafe-einar-olafsson/extract-jira-tickets/archive/refs/tags/v0.1.0.tar.gz"
-  sha256 "f05d82ea1795bd4b85a52c60b2162acebf1b1dc3384995f1cc6677eb47b4d16c"
-  version "0.1.0"
+  url "https://github.com/sosafe-einar-olafsson/extract-jira-tickets/archive/refs/tags/v0.2.0.tar.gz"
+  sha256 "c95de218236523fb25bb64260c03ebea393dccec4b5e8275671c39c3a9f9b1ba"
+  version "0.2.0"
 
   def install
     bin.install "extract-jira-tickets"  # Update to match your script name
